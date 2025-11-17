@@ -39,8 +39,8 @@ export const works: Work[] = [
     videoUrl: 'https://example.com/video1',
     description: 'A mesmerizing music video that explores the boundary between dreams and reality through innovative visual storytelling and seamless transitions.',
     credits: {
-      director: 'nagi',
-      editor: 'nagi',
+      director: 'Vito',
+      editor: 'Vito',
       cinematographer: 'Yuki Tanaka',
       producer: 'Studio Vision'
     }
@@ -56,8 +56,8 @@ export const works: Work[] = [
     videoUrl: 'https://example.com/video2',
     description: 'A dynamic commercial capturing the energy of urban life and the spirit of athletic excellence.',
     credits: {
-      director: 'nagi',
-      editor: 'nagi',
+      director: 'Vito',
+      editor: 'Vito',
       producer: 'Creative Labs'
     }
   },
@@ -71,8 +71,8 @@ export const works: Work[] = [
     videoUrl: 'https://example.com/video3',
     description: 'An introspective short film about memory and loss, told through minimal dialogue and powerful visual metaphors.',
     credits: {
-      director: 'nagi',
-      editor: 'nagi',
+      director: 'Vito',
+      editor: 'Vito',
       cinematographer: 'Akira Sato'
     }
   },
@@ -87,8 +87,8 @@ export const works: Work[] = [
     videoUrl: 'https://example.com/video4',
     description: 'A vibrant music video set in Tokyo\'s neon-lit streets, blending cyberpunk aesthetics with emotional storytelling.',
     credits: {
-      director: 'nagi',
-      editor: 'nagi',
+      director: 'Vito',
+      editor: 'Vito',
       cinematographer: 'Rei Matsumoto'
     }
   },
@@ -102,8 +102,8 @@ export const works: Work[] = [
     videoUrl: 'https://example.com/video5',
     description: 'A documentary exploring traditional Japanese craftsmanship in the modern world.',
     credits: {
-      director: 'nagi',
-      editor: 'nagi',
+      director: 'Vito',
+      editor: 'Vito',
       producer: 'Documentary Films Japan'
     }
   },
@@ -118,8 +118,8 @@ export const works: Work[] = [
     videoUrl: 'https://example.com/video6',
     description: 'A sleek commercial showcasing cutting-edge technology through clean, minimalist visuals.',
     credits: {
-      director: 'nagi',
-      editor: 'nagi'
+      director: 'Vito',
+      editor: 'Vito'
     }
   }
 
@@ -138,8 +138,8 @@ export const works: Work[] = [
     videoUrl: 'https://youtube.com/watch?v=xxxxxxx',           // 動画URL
     description: '作品の説明文をここに記載します。',
     credits: {
-      director: 'nagi',
-      editor: 'nagi',
+      director: 'Vito',
+      editor: 'Vito',
       cinematographer: '撮影監督名（オプション）',
       producer: '制作会社名（オプション）'
     }

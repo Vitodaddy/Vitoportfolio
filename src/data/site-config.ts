@@ -1,18 +1,15 @@
 export const siteConfig = {
-  // ヒーロー背景動画のURL - 任意の動画URLに変更してください
-  heroVideoUrl: "https://storage.googleapis.com/example2141/showreel24.mp4",
+  // デフォルトの画像URL（プレースホルダー）
+  defaultImageUrl: "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&h=450&fit=crop",
   
   // 他のサイト設定もここに追加できます
-  siteName: "nagi",
+  siteName: "Vito",
   siteDescription: "Visual storyteller crafting emotional narratives through the lens of cinema and digital media.",
-  contactEmail: "nagi@example.com",
+  contactEmail: "vito@example.com",
   phone: "+81 90-1234-5678",
   location: "Tokyo, Japan",
-  
-  // ソーシャルメディアリンク
-  social: {
-    instagram: "#",
-    vimeo: "#",
-    twitter: "#"
+  defaultCredits: {
+    director: "Vito",
+    editor: "Vito"
   }
 }

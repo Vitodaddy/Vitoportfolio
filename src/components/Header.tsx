@@ -32,15 +32,19 @@ export function Header({ onHomeClick, onAboutClick, onAdminClick, currentView }:
     }
   }
 
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-black/80 backdrop-blur-md border-b border-white/10">
       <div className="max-w-7xl mx-auto px-6 py-4">
         <nav className="flex items-center justify-between">
-          <button 
-            onClick={handleLogoClick}
+          <button
+            onClick={scrollToTop}
             className="text-2xl tracking-wider transition-opacity hover:opacity-70 select-none"
           >
-            nagi
+            Vito
           </button>
           
           <div className="flex items-center space-x-8">

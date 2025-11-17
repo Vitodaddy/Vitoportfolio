@@ -25,8 +25,8 @@ export function WorkForm({ work, onSave, onCancel }: WorkFormProps) {
     videoUrl: '',
     description: '',
     credits: {
-      director: 'nagi',
-      editor: 'nagi',
+      director: 'Vito',
+      editor: 'Vito',
       cinematographer: '',
       producer: ''
     }

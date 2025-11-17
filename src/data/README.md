@@ -26,8 +26,8 @@
   videoUrl: '動画URL',
   description: '作品の説明文',
   credits: {
-    director: 'nagi',
-    editor: 'nagi',
+    director: 'Vito',
+    editor: 'Vito',
     cinematographer: '撮影監督名',   // オプション
     producer: '制作会社名'           // オプション
   }

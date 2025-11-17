@@ -31,7 +31,7 @@ export function AboutSection({ onBack }: AboutSectionProps) {
           
           {/* Name and Title */}
           <div className="mb-12">
-            <h1 className="text-5xl mb-6">nagi</h1>
+            <h1 className="text-5xl mb-6">Vito</h1>
             <h2 className="text-2xl text-white/70 mb-8">Director & Editor</h2>
           </div>
           

@@ -12,7 +12,7 @@ import { AdminLogin } from './components/AdminLogin'
 import { AdminDashboard } from './components/AdminDashboard'
 import { works as initialWorks, Work } from './data/works'
 
-const STORAGE_KEY = 'nagi_portfolio_works'
+const STORAGE_KEY = 'vito_portfolio_works'
 
 export default function App() {
   const [currentView, setCurrentView] = useState<'home' | 'work' | 'about' | 'admin-login' | 'admin'>('home')
